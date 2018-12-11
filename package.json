@@ -1,0 +1,27 @@
+{
+  "name": "vr-lab-select",
+  "version": "1.0.0",
+  "description": "This is Virtual Lab Website for SELECT School in Vellore Institute of Technology(VIT).",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achhapolia10/VR-LAB-SELECT.git"
+  },
+  "author": "SELECT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achhapolia10/VR-LAB-SELECT/issues"
+  },
+  "homepage": "https://github.com/achhapolia10/VR-LAB-SELECT#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-sanitizer": "^1.0.4",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.3.15"
+  }
+}
